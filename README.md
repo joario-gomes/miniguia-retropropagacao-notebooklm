@@ -1,12 +1,9 @@
-# miniguia-retropropagacao-notebooklm
-Nesse projeto será apresenta minha primeira experiência usando o assistente de pesquisa Notebook LM. Nesse estudo usei busquei explorar um pouco do algoritmo de  Backpropagation.
 # 🧠 Caderno Temático: Backpropagation (Retropropagação)
-### Projeto de Aprendizagem com IA — DIO + NotebookLM
+### Projeto de Aprendizagem com IA — NotebookLM
 
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-![DIO](https://img.shields.io/badge/Plataforma-DIO-purple?style=for-the-badge)
 ![NotebookLM](https://img.shields.io/badge/Ferramenta-NotebookLM-blue?style=for-the-badge)
 ![IA](https://img.shields.io/badge/Tema-Deep%20Learning-orange?style=for-the-badge)
 
@@ -103,6 +100,26 @@ As fontes foram selecionadas com critério: cobertura matemática, acessibilidad
 **Por que escolhi:** Perspectiva pragmática de um dos maiores nomes da área. Karpathy argumenta por que entender backprop na prática faz diferença real — e mostra armadilhas comuns.
 
 > **Trecho relevante carregado no NotebookLM:** Artigo completo
+
+---
+
+### 📄 Fonte 6 — Aula IA - 10 - Backpropagation (Retropropagação) (Hemerson Pistori — Youtube)
+**Autor:** Hemerson Pistori  
+**Tipo:** Aula técnico (Youtube — acesso livre)  
+**Link:** [https://www.youtube.com/watch?v=DG9jPLfWhoA](https://www.youtube.com/watch?v=DG9jPLfWhoA)  
+**Por que escolhi:** Vídeo estava em alta no momento da pesquisa, o que mostra credibilidade pela plataforma e acesso.
+
+> **Trecho relevante carregado no NotebookLM:** Vídeo completo
+
+---
+
+### 📄 Fonte 7 — O que a retropropagação realmente está fazendo? | Capítulo 3, Aprendizado profundo (3blue1brown — Youtube)
+**Autor:** 3blue1brown  
+**Tipo:** Aula técnico (Youtube — acesso livre)  
+**Link:** [https://www.youtube.com/watch?v=Ilg3gGewQ5U](https://www.youtube.com/watch?v=Ilg3gGewQ5U)  
+**Por que escolhi:** Vídeo estava em alta no momento da pesquisa, o que mostra credibilidade pela plataforma e acesso.
+
+> **Trecho relevante carregado no NotebookLM:** Vídeo completo
 
 ---
 
