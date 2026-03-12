@@ -468,7 +468,7 @@ Backpropagation é mais do que um algoritmo — é a prova de que sistemas compl
 
 **Desenvolvido como projeto de conclusão de curso na [DIO](https://www.dio.me)**  
 🔗 Ferramenta utilizada: [NotebookLM](https://notebooklm.google.com) — Google  
-📅 2025
+📅 2026
 
 ---
 
