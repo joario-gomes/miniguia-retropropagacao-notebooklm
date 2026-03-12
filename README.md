@@ -123,6 +123,26 @@ As fontes foram selecionadas com critério: cobertura matemática, acessibilidad
 
 ---
 
+### 📄 Fonte 8 — Introdução a redes neurais: algoritmo Backpropagation, por Carlos Pohlod (Codeminer42 — Youtube)
+**Autor:** Codeminer42  
+**Tipo:** Aula técnico (Youtube — acesso livre)  
+**Link:** [https://www.youtube.com/watch?v=vLzQqCsaKog](https://www.youtube.com/watch?v=vLzQqCsaKog)  
+**Por que escolhi:** Vídeo estava em alta no momento da pesquisa, o que mostra credibilidade pela plataforma e acesso.
+
+> **Trecho relevante carregado no NotebookLM:** Vídeo completo
+
+---
+
+### 📄 Fonte 9 — Redes neurais artificiais #13: Backpropagation e descida do gradiente (Machine Learning para humanos — Youtube)
+**Autor:** Machine Learning para humanos  
+**Tipo:** Aula técnico (Youtube — acesso livre)  
+**Link:** [https://www.youtube.com/watch?v=vH4eSfGkJhQ](https://www.youtube.com/watch?v=vH4eSfGkJhQ)  
+**Por que escolhi:** Vídeo estava em alta no momento da pesquisa, o que mostra credibilidade pela plataforma e acesso.
+
+> **Trecho relevante carregado no NotebookLM:** Vídeo completo
+
+---
+
 ## 🔬 Engenharia de Prompts e Cicatrizes
 
 Esta seção documenta minha jornada de interação com o NotebookLM — incluindo os prompts que funcionaram, os que falharam e o que aprendi com cada tentativa.
@@ -136,7 +156,7 @@ Esta seção documenta minha jornada de interação com o NotebookLM — incluin
 O que é backpropagation?
 ```
 
-**Resposta obtida:** Definição genérica de 2 parágrafos, sem profundidade matemática. Citou as fontes carregadas superficialmente.
+**Resposta obtida:** Definição com embasamento profundo e muito técnico, apresentada com uma introdução, aspectos do funcionamento do algoritmo divididos em 5 tópicos, e finalizada com uma conclusão. Citou as fontes com trechos do material.
 
 **Problema identificado (cicatriz):** Prompts abertos demais geram respostas enciclopédicas, não didáticas. O NotebookLM não sabe qual é o seu nível de conhecimento ou objetivo.
 
@@ -153,7 +173,7 @@ Explique backpropagation em 3 etapas numeradas, usando a analogia de "fluxo de e
 Cite exemplos das fontes carregadas.
 ```
 
-**Resposta obtida:** Resposta estruturada em 3 etapas claras, com referência explícita ao livro de Nielsen (Capítulo 2) e ao CS231n. Muito mais utilizável.
+**Resposta obtida:** Resposta estruturada em 3 etapas claras, com referência explícita a 5 das 9 fontes. Muito mais utilizável.
 
 **Melhoria observada:** A estrutura forçada (3 etapas numeradas) e a analogia solicitada tornaram a resposta mais memorável.
 
@@ -169,9 +189,9 @@ Derive matematicamente as 4 equações fundamentais do backpropagation
 conforme apresentadas no livro de Michael Nielsen.
 ```
 
-**Resposta obtida:** A IA listou as equações corretamente, mas omitiu as demonstrações intermediárias e trocou os índices em duas equações (δᴸ e δˡ).
+**Resposta obtida:** A IA listou as equações corretamente, não omitiu as demonstrações intermediárias e manteve os índices em todas equações.
 
-**Problema identificado (cicatriz grave):** O NotebookLM tem limitações com notação matemática complexa. As equações foram apresentadas sem LaTeX formatado, dificultando a leitura.
+**Problema identificado (cicatriz grave):** O NotebookLM não tem limitações com notação matemática complexa. As equações foram apresentadas em LaTeX formatado, tornando a leitura perfeitamente compreencível para que já tem conhecimentos profundo de cálculo.
 
 **Solução encontrada:** Pedir as equações em linguagem natural primeiro, depois formalizá-las manualmente com o livro em mãos.
 
